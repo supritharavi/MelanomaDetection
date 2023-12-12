@@ -3,11 +3,10 @@
 
 
 ## Table of Contents
-* [General Info]
-* [Technologies Used]
-* [Conclusions]
-* [Acknowledgements]
-
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 ## General Information
 - The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
@@ -36,4 +35,4 @@
 - Augmentor
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@supritharavi] - feel free to contact me!
